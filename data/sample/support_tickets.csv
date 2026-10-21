@@ -1,0 +1,501 @@
+ticket_id,created_at,customer_type,channel,category,subcategory,ticket_description,business_impact,urgency,customer_impact,current_status,assigned_team,first_response_minutes,resolution_minutes,sla_target_minutes,sla_breached
+TKT-0001,2026-01-09 08:05:00,Standard,Email,Product Issue,Product Defect,Received product is defective.,2,2,4,In Progress,Product Support,129,2334,1440,True
+TKT-0002,2026-03-29 16:09:00,Standard,Chat,Order,Order Cancellation,Customer wants to cancel an order.,4,3,1,Closed,Order Support,244,713,1440,False
+TKT-0003,2026-04-07 10:35:00,Standard,Email,Order,Order Cancellation,Customer wants to modify an order.,3,4,4,Closed,Order Support,95,1941,1440,True
+TKT-0004,2026-04-28 04:53:00,Standard,Phone,Technical Issue,Integration Error,Website returns an error.,4,4,5,In Progress,Technical Support,5,1219,1440,False
+TKT-0005,2026-06-14 06:35:00,Standard,Phone,Delivery,Wrong Delivery Address,Order has not arrived on time.,4,2,2,Closed,Logistics Support,340,2166,1440,True
+TKT-0006,2026-04-13 04:29:00,Premium,Email,Technical Issue,App Error,Application shows an error.,2,3,5,In Progress,Technical Support,278,1783,720,True
+TKT-0007,2026-01-29 12:40:00,Standard,Phone,Order,Order Status,Customer wants to cancel an order.,5,3,2,Closed,Order Support,219,2081,1440,True
+TKT-0008,2026-01-31 05:56:00,Standard,Email,Order,Order Modification,Customer asks about order status.,3,5,5,Closed,Order Support,200,200,1440,False
+TKT-0009,2026-05-10 11:55:00,Premium,Phone,Delivery,Missing Package,Order was delivered to the wrong address.,1,2,4,In Progress,Logistics Support,237,2163,720,True
+TKT-0010,2026-05-06 08:07:00,Standard,Chat,Account,Password Reset,Customer needs a password reset.,4,3,3,Closed,Account Support,97,97,1440,False
+TKT-0011,2026-05-21 13:16:00,Premium,Phone,Technical Issue,App Error,Integration is not working correctly.,1,5,3,Closed,Technical Support,265,2498,720,True
+TKT-0012,2026-01-17 18:01:00,Standard,Chat,Technical Issue,Integration Error,Integration is not working correctly.,3,5,3,Resolved,Technical Support,200,2156,1440,True
+TKT-0013,2026-03-14 05:31:00,Standard,Email,Delivery,Wrong Delivery Address,Order has not arrived on time.,1,1,1,Resolved,Logistics Support,338,1558,1440,True
+TKT-0014,2026-01-15 05:41:00,Premium,Web,Technical Issue,Website Error,Integration is not working correctly.,4,2,3,Open,Technical Support,271,2699,720,True
+TKT-0015,2026-01-20 22:51:00,Standard,Phone,Delivery,Late Delivery,Order was delivered to the wrong address.,3,2,3,Open,Logistics Support,113,2147,1440,True
+TKT-0016,2026-04-10 16:59:00,Premium,Email,Delivery,Late Delivery,Package was marked delivered but cannot be found.,3,3,4,In Progress,Logistics Support,100,637,720,False
+TKT-0017,2026-01-15 09:37:00,Premium,Web,Account,Login Problem,Customer needs a password reset.,1,2,4,Resolved,Account Support,166,309,720,False
+TKT-0018,2026-05-26 15:37:00,Premium,Chat,Payment,Duplicate Charge,Customer reports a duplicate charge.,1,1,4,Open,Payments Support,103,1958,720,True
+TKT-0019,2026-01-19 08:29:00,Standard,Phone,Product Issue,Product Defect,Product is not working as expected.,2,4,3,Closed,Product Support,262,1288,1440,False
+TKT-0020,2026-03-20 03:51:00,Enterprise,Email,Technical Issue,Integration Error,Integration is not working correctly.,4,5,4,Resolved,Technical Support,126,1326,240,True
+TKT-0021,2026-03-29 14:43:00,Premium,Phone,Delivery,Late Delivery,Order was delivered to the wrong address.,2,2,3,Closed,Logistics Support,150,1752,720,True
+TKT-0022,2026-05-23 06:27:00,Standard,Phone,Payment,Payment Failed,Customer reports a duplicate charge.,1,4,3,Open,Payments Support,421,1462,1440,True
+TKT-0023,2026-06-20 11:22:00,Standard,Chat,Payment,Payment Pending,Customer reports a duplicate charge.,2,2,3,Closed,Payments Support,454,1981,1440,True
+TKT-0024,2026-06-29 11:24:00,Standard,Chat,Technical Issue,App Error,Application shows an error.,4,1,3,Closed,Technical Support,210,2254,1440,True
+TKT-0025,2026-03-13 19:41:00,Standard,Web,Refund,Refund Request,Refunded amount appears incorrect.,4,2,3,Resolved,Payments Support,131,1201,1440,False
+TKT-0026,2026-04-23 03:32:00,Enterprise,Phone,Payment,Payment Failed,Payment failed during checkout.,5,3,1,Resolved,Payments Support,193,2173,240,True
+TKT-0027,2026-06-20 18:39:00,Standard,Phone,Payment,Duplicate Charge,Payment is still pending after the order.,4,3,4,Closed,Payments Support,238,1612,1440,True
+TKT-0028,2026-04-09 05:47:00,Standard,Phone,Product Issue,Product Not Working,Received product is defective.,4,3,3,Closed,Product Support,224,845,1440,False
+TKT-0029,2026-06-22 14:32:00,Standard,Email,Product Issue,Wrong Product Information,Product information appears incorrect.,3,3,4,Closed,Product Support,122,1964,1440,True
+TKT-0030,2026-02-07 08:02:00,Enterprise,Chat,Delivery,Missing Package,Order has not arrived on time.,3,4,2,Closed,Logistics Support,172,1542,240,True
+TKT-0031,2026-06-18 06:00:00,Standard,Email,Subscription,Renewal Problem,Customer wants to cancel subscription.,4,3,3,Closed,Subscription Support,337,1696,1440,True
+TKT-0032,2026-04-25 03:52:00,Standard,Web,Payment,Duplicate Charge,Customer reports a duplicate charge.,4,3,4,Closed,Payments Support,173,2998,1440,True
+TKT-0033,2026-05-14 23:40:00,Standard,Web,Account,Account Locked,Customer cannot log in.,4,3,4,In Progress,Account Support,258,1195,1440,False
+TKT-0034,2026-03-27 01:29:00,Standard,Phone,Technical Issue,Website Error,Website returns an error.,1,5,2,Open,Technical Support,208,2304,1440,True
+TKT-0035,2026-05-21 03:57:00,Premium,Web,Payment,Duplicate Charge,Payment failed during checkout.,3,1,4,Resolved,Payments Support,331,2878,720,True
+TKT-0036,2026-06-02 02:42:00,Standard,Web,Payment,Payment Pending,Payment failed during checkout.,3,4,2,Open,Payments Support,289,2276,1440,True
+TKT-0037,2026-04-18 16:53:00,Standard,Web,Account,Login Problem,Customer cannot log in.,2,3,3,Resolved,Account Support,148,1612,1440,True
+TKT-0038,2026-02-21 08:39:00,Premium,Email,Refund,Refund Delayed,Refund is delayed.,5,1,1,In Progress,Payments Support,347,347,720,False
+TKT-0039,2026-01-29 02:01:00,Standard,Email,Technical Issue,Website Error,Website returns an error.,3,2,4,Resolved,Technical Support,240,864,1440,False
+TKT-0040,2026-06-26 03:51:00,Enterprise,Web,Order,Order Status,Customer wants to cancel an order.,4,1,4,Closed,Order Support,116,121,240,False
+TKT-0041,2026-01-28 21:23:00,Standard,Email,Refund,Incorrect Refund,Refunded amount appears incorrect.,1,4,4,Closed,Payments Support,223,1780,1440,True
+TKT-0042,2026-06-01 16:20:00,Standard,Chat,Order,Order Cancellation,Customer wants to cancel an order.,2,5,4,Closed,Order Support,204,2040,1440,True
+TKT-0043,2026-03-29 16:56:00,Standard,Web,Technical Issue,Website Error,Integration is not working correctly.,3,4,3,Closed,Technical Support,411,1999,1440,True
+TKT-0044,2026-01-24 17:14:00,Standard,Email,Technical Issue,App Error,Website returns an error.,4,3,4,Closed,Technical Support,242,2987,1440,True
+TKT-0045,2026-03-11 17:16:00,Standard,Phone,Subscription,Plan Change,Customer wants to cancel subscription.,5,3,3,In Progress,Subscription Support,286,1501,1440,True
+TKT-0046,2026-01-26 14:18:00,Standard,Email,Account,Login Problem,Customer cannot log in.,2,4,3,Resolved,Account Support,18,2208,1440,True
+TKT-0047,2026-05-27 17:30:00,Standard,Chat,Product Issue,Product Defect,Product information appears incorrect.,4,3,2,Resolved,Product Support,42,2070,1440,True
+TKT-0048,2026-03-19 10:15:00,Standard,Email,Product Issue,Wrong Product Information,Received product is defective.,3,4,1,Resolved,Product Support,5,2622,1440,True
+TKT-0049,2026-06-07 07:06:00,Standard,Chat,Order,Order Modification,Customer wants to cancel an order.,3,3,3,Closed,Order Support,241,2389,1440,True
+TKT-0050,2026-03-01 17:45:00,Standard,Email,Account,Login Problem,Customer needs a password reset.,2,3,3,Closed,Account Support,103,1984,1440,True
+TKT-0051,2026-03-10 12:04:00,Standard,Chat,Product Issue,Product Not Working,Received product is defective.,5,4,3,In Progress,Product Support,237,980,1440,False
+TKT-0052,2026-01-22 03:02:00,Standard,Phone,Subscription,Subscription Cancellation,Subscription renewal has a problem.,4,4,5,Closed,Subscription Support,180,2271,1440,True
+TKT-0053,2026-05-02 00:41:00,Standard,Email,Delivery,Late Delivery,Package was marked delivered but cannot be found.,3,4,5,Closed,Logistics Support,253,2343,1440,True
+TKT-0054,2026-06-27 23:18:00,Standard,Web,Subscription,Subscription Cancellation,Customer wants to change subscription plan.,3,3,4,Closed,Subscription Support,255,718,1440,False
+TKT-0055,2026-01-02 05:55:00,Premium,Email,Subscription,Subscription Cancellation,Customer wants to change subscription plan.,2,3,4,Resolved,Subscription Support,176,2167,720,True
+TKT-0056,2026-05-05 11:01:00,Standard,Phone,Subscription,Plan Change,Customer wants to change subscription plan.,2,4,3,Closed,Subscription Support,195,1854,1440,True
+TKT-0057,2026-02-01 04:53:00,Standard,Chat,Product Issue,Product Not Working,Received product is defective.,1,3,5,Resolved,Product Support,22,524,1440,False
+TKT-0058,2026-02-04 10:17:00,Premium,Phone,Order,Order Modification,Customer wants to modify an order.,3,2,3,Resolved,Order Support,256,2141,720,True
+TKT-0059,2026-03-28 01:48:00,Premium,Phone,Payment,Payment Pending,Customer reports a duplicate charge.,4,3,4,Resolved,Payments Support,317,2992,720,True
+TKT-0060,2026-06-16 12:31:00,Enterprise,Chat,Technical Issue,Integration Error,Application shows an error.,3,4,3,In Progress,Technical Support,200,2072,240,True
+TKT-0061,2026-03-09 18:39:00,Enterprise,Phone,Delivery,Missing Package,Order was delivered to the wrong address.,3,3,4,Resolved,Logistics Support,66,2017,240,True
+TKT-0062,2026-06-25 17:14:00,Standard,Phone,Order,Order Modification,Customer asks about order status.,4,4,4,Open,Order Support,321,340,1440,False
+TKT-0063,2026-03-05 00:26:00,Enterprise,Email,Subscription,Subscription Cancellation,Customer wants to change subscription plan.,1,5,4,Closed,Subscription Support,121,1337,240,True
+TKT-0064,2026-04-28 16:42:00,Standard,Chat,Delivery,Wrong Delivery Address,Order has not arrived on time.,2,4,5,Closed,Logistics Support,182,1955,1440,True
+TKT-0065,2026-03-19 14:24:00,Standard,Phone,Account,Login Problem,Customer needs a password reset.,5,5,3,Open,Account Support,177,1084,1440,False
+TKT-0066,2026-06-26 07:03:00,Standard,Phone,Product Issue,Product Not Working,Product is not working as expected.,4,1,3,Closed,Product Support,166,166,1440,False
+TKT-0067,2026-06-15 09:19:00,Premium,Phone,Technical Issue,Integration Error,Website returns an error.,3,4,4,Open,Technical Support,149,818,720,True
+TKT-0068,2026-03-11 13:16:00,Standard,Chat,Delivery,Missing Package,Package was marked delivered but cannot be found.,2,4,2,Closed,Logistics Support,103,2645,1440,True
+TKT-0069,2026-04-12 08:16:00,Standard,Phone,Delivery,Missing Package,Order was delivered to the wrong address.,5,2,4,In Progress,Logistics Support,53,2828,1440,True
+TKT-0070,2026-06-06 15:41:00,Standard,Phone,Order,Order Status,Customer wants to cancel an order.,2,2,1,Closed,Order Support,205,2359,1440,True
+TKT-0071,2026-02-04 20:29:00,Standard,Phone,Order,Order Cancellation,Customer wants to modify an order.,1,1,5,Closed,Order Support,86,2570,1440,True
+TKT-0072,2026-02-25 22:28:00,Premium,Web,Account,Password Reset,Customer cannot log in.,3,2,3,Closed,Account Support,350,1508,720,True
+TKT-0073,2026-06-15 04:38:00,Standard,Phone,Refund,Refund Delayed,Refund is delayed.,5,3,5,Open,Payments Support,218,1922,1440,True
+TKT-0074,2026-02-07 12:34:00,Standard,Chat,Technical Issue,App Error,Website returns an error.,4,3,2,Closed,Technical Support,351,669,1440,False
+TKT-0075,2026-05-15 11:47:00,Standard,Email,Account,Login Problem,Customer cannot log in.,2,4,3,Resolved,Account Support,166,2332,1440,True
+TKT-0076,2026-06-14 08:03:00,Premium,Email,Subscription,Plan Change,Subscription renewal has a problem.,1,5,4,Closed,Subscription Support,8,2195,720,True
+TKT-0077,2026-03-25 20:38:00,Standard,Email,Subscription,Plan Change,Customer wants to change subscription plan.,1,1,4,In Progress,Subscription Support,242,2593,1440,True
+TKT-0078,2026-02-28 21:21:00,Standard,Web,Delivery,Wrong Delivery Address,Package was marked delivered but cannot be found.,4,4,4,Resolved,Logistics Support,5,1820,1440,True
+TKT-0079,2026-01-24 21:06:00,Premium,Phone,Order,Order Modification,Customer asks about order status.,5,3,4,Closed,Order Support,355,2002,720,True
+TKT-0080,2026-01-14 17:38:00,Premium,Email,Refund,Incorrect Refund,Customer requests a refund.,4,3,5,Resolved,Payments Support,77,1792,720,True
+TKT-0081,2026-05-27 15:51:00,Standard,Chat,Account,Account Locked,Customer needs a password reset.,2,2,4,Closed,Account Support,261,2040,1440,True
+TKT-0082,2026-05-26 05:25:00,Enterprise,Email,Product Issue,Product Defect,Received product is defective.,4,3,5,In Progress,Product Support,107,1494,240,True
+TKT-0083,2026-05-27 03:05:00,Standard,Email,Delivery,Wrong Delivery Address,Order has not arrived on time.,3,2,3,In Progress,Logistics Support,286,2213,1440,True
+TKT-0084,2026-01-29 17:43:00,Premium,Email,Delivery,Missing Package,Order was delivered to the wrong address.,3,4,3,Resolved,Logistics Support,197,1991,720,True
+TKT-0085,2026-01-31 08:31:00,Standard,Phone,Payment,Payment Failed,Customer reports a duplicate charge.,2,1,5,Resolved,Payments Support,370,1145,1440,False
+TKT-0086,2026-05-27 20:45:00,Standard,Chat,Refund,Refund Delayed,Refunded amount appears incorrect.,1,4,1,Resolved,Payments Support,199,1342,1440,False
+TKT-0087,2026-03-04 21:37:00,Standard,Email,Refund,Refund Delayed,Customer requests a refund.,4,3,3,Resolved,Payments Support,331,1848,1440,True
+TKT-0088,2026-04-01 07:52:00,Standard,Phone,Refund,Refund Delayed,Refunded amount appears incorrect.,1,4,4,Closed,Payments Support,108,2185,1440,True
+TKT-0089,2026-05-26 02:28:00,Standard,Chat,Product Issue,Product Defect,Product is not working as expected.,4,4,4,Closed,Product Support,71,2083,1440,True
+TKT-0090,2026-04-02 00:04:00,Standard,Phone,Refund,Refund Delayed,Customer requests a refund.,3,1,3,Resolved,Payments Support,240,1185,1440,False
+TKT-0091,2026-05-23 07:57:00,Standard,Phone,Product Issue,Product Defect,Received product is defective.,4,4,4,Resolved,Product Support,271,1634,1440,True
+TKT-0092,2026-01-23 00:41:00,Premium,Chat,Refund,Incorrect Refund,Refund is delayed.,5,3,3,Open,Payments Support,258,1466,720,True
+TKT-0093,2026-06-15 18:04:00,Premium,Web,Account,Password Reset,Customer needs a password reset.,3,5,4,Open,Account Support,109,274,720,False
+TKT-0094,2026-03-22 04:44:00,Premium,Phone,Product Issue,Product Not Working,Product is not working as expected.,3,5,2,Resolved,Product Support,331,639,720,False
+TKT-0095,2026-05-11 19:01:00,Standard,Email,Product Issue,Product Not Working,Product information appears incorrect.,3,4,2,Resolved,Product Support,108,2337,1440,True
+TKT-0096,2026-05-15 09:42:00,Enterprise,Phone,Subscription,Subscription Cancellation,Subscription renewal has a problem.,2,5,3,Closed,Subscription Support,20,215,240,False
+TKT-0097,2026-06-24 07:15:00,Standard,Web,Account,Login Problem,Customer needs a password reset.,4,4,4,Closed,Account Support,76,2216,1440,True
+TKT-0098,2026-04-29 17:49:00,Premium,Web,Technical Issue,Integration Error,Website returns an error.,4,5,5,Resolved,Technical Support,182,2734,720,True
+TKT-0099,2026-03-14 10:48:00,Standard,Chat,Technical Issue,Integration Error,Application shows an error.,3,1,3,In Progress,Technical Support,149,1536,1440,True
+TKT-0100,2026-03-02 20:05:00,Enterprise,Chat,Order,Order Cancellation,Customer wants to modify an order.,4,4,5,In Progress,Order Support,65,76,240,False
+TKT-0101,2026-05-01 22:39:00,Standard,Email,Refund,Refund Delayed,Refund is delayed.,5,1,3,Closed,Payments Support,85,628,1440,False
+TKT-0102,2026-04-19 04:50:00,Standard,Chat,Account,Account Locked,Customer account is locked.,2,3,3,Resolved,Account Support,326,1958,1440,True
+TKT-0103,2026-02-18 05:42:00,Standard,Web,Payment,Duplicate Charge,Payment failed during checkout.,2,2,3,Resolved,Payments Support,425,1997,1440,True
+TKT-0104,2026-03-30 15:46:00,Standard,Email,Order,Order Modification,Customer asks about order status.,5,4,3,Closed,Order Support,25,1522,1440,True
+TKT-0105,2026-05-04 04:11:00,Premium,Phone,Account,Login Problem,Customer cannot log in.,4,3,2,Open,Account Support,195,1963,720,True
+TKT-0106,2026-05-20 23:16:00,Premium,Web,Payment,Payment Pending,Payment failed during checkout.,4,4,3,Closed,Payments Support,80,2986,720,True
+TKT-0107,2026-02-17 23:44:00,Standard,Phone,Payment,Duplicate Charge,Payment is still pending after the order.,3,2,5,Resolved,Payments Support,253,2652,1440,True
+TKT-0108,2026-01-21 18:42:00,Premium,Phone,Delivery,Wrong Delivery Address,Package was marked delivered but cannot be found.,3,1,4,Resolved,Logistics Support,232,2895,720,True
+TKT-0109,2026-04-22 16:40:00,Standard,Web,Account,Account Locked,Customer cannot log in.,1,3,4,Open,Account Support,242,1504,1440,True
+TKT-0110,2026-06-15 19:23:00,Standard,Phone,Account,Login Problem,Customer needs a password reset.,4,4,3,Closed,Account Support,62,335,1440,False
+TKT-0111,2026-06-16 16:15:00,Standard,Chat,Subscription,Renewal Problem,Customer wants to cancel subscription.,1,3,2,Open,Subscription Support,205,1563,1440,True
+TKT-0112,2026-04-26 13:57:00,Standard,Web,Delivery,Missing Package,Order was delivered to the wrong address.,2,4,4,Resolved,Logistics Support,50,2480,1440,True
+TKT-0113,2026-06-30 04:11:00,Standard,Phone,Refund,Incorrect Refund,Customer requests a refund.,2,3,3,Resolved,Payments Support,48,705,1440,False
+TKT-0114,2026-01-17 17:25:00,Standard,Chat,Account,Login Problem,Customer account is locked.,3,1,3,Closed,Account Support,267,2319,1440,True
+TKT-0115,2026-02-16 12:27:00,Standard,Web,Delivery,Late Delivery,Order was delivered to the wrong address.,3,4,4,Closed,Logistics Support,123,1714,1440,True
+TKT-0116,2026-01-21 16:12:00,Standard,Email,Account,Password Reset,Customer account is locked.,5,2,2,Closed,Account Support,99,2185,1440,True
+TKT-0117,2026-01-21 09:41:00,Standard,Phone,Delivery,Wrong Delivery Address,Order was delivered to the wrong address.,5,2,2,In Progress,Logistics Support,343,2596,1440,True
+TKT-0118,2026-06-26 09:10:00,Standard,Web,Payment,Payment Pending,Payment is still pending after the order.,5,3,3,Resolved,Payments Support,475,2332,1440,True
+TKT-0119,2026-01-28 18:15:00,Standard,Phone,Account,Password Reset,Customer needs a password reset.,4,4,5,In Progress,Account Support,152,1577,1440,True
+TKT-0120,2026-03-22 14:48:00,Standard,Chat,Delivery,Late Delivery,Order has not arrived on time.,4,5,3,Resolved,Logistics Support,43,1384,1440,False
+TKT-0121,2026-01-13 09:18:00,Standard,Web,Product Issue,Wrong Product Information,Product information appears incorrect.,3,2,3,Resolved,Product Support,26,2192,1440,True
+TKT-0122,2026-04-04 09:25:00,Premium,Web,Product Issue,Product Not Working,Received product is defective.,3,4,5,Resolved,Product Support,5,1558,720,True
+TKT-0123,2026-04-11 19:50:00,Standard,Phone,Delivery,Missing Package,Package was marked delivered but cannot be found.,3,3,4,Resolved,Logistics Support,273,809,1440,False
+TKT-0124,2026-02-09 03:57:00,Standard,Chat,Technical Issue,Integration Error,Integration is not working correctly.,1,3,2,In Progress,Technical Support,377,2394,1440,True
+TKT-0125,2026-05-25 17:30:00,Enterprise,Phone,Account,Password Reset,Customer cannot log in.,2,4,3,Resolved,Account Support,214,1875,240,True
+TKT-0126,2026-05-30 23:10:00,Premium,Web,Product Issue,Product Not Working,Product is not working as expected.,3,1,5,Closed,Product Support,337,992,720,True
+TKT-0127,2026-04-18 12:26:00,Standard,Web,Account,Account Locked,Customer account is locked.,5,1,2,In Progress,Account Support,139,139,1440,False
+TKT-0128,2026-02-14 22:58:00,Standard,Web,Payment,Duplicate Charge,Customer reports a duplicate charge.,3,2,4,Resolved,Payments Support,217,2983,1440,True
+TKT-0129,2026-02-24 06:45:00,Standard,Phone,Subscription,Subscription Cancellation,Subscription renewal has a problem.,2,3,5,Resolved,Subscription Support,141,1279,1440,False
+TKT-0130,2026-02-07 17:02:00,Standard,Phone,Product Issue,Product Defect,Product information appears incorrect.,3,4,5,Closed,Product Support,194,1473,1440,True
+TKT-0131,2026-02-05 11:39:00,Standard,Web,Product Issue,Product Not Working,Product is not working as expected.,4,2,3,Resolved,Product Support,260,2362,1440,True
+TKT-0132,2026-02-10 21:41:00,Standard,Chat,Technical Issue,App Error,Website returns an error.,3,3,4,Resolved,Technical Support,171,633,1440,False
+TKT-0133,2026-01-10 13:26:00,Standard,Phone,Refund,Refund Request,Refund is delayed.,4,1,4,Closed,Payments Support,345,1011,1440,False
+TKT-0134,2026-06-15 01:33:00,Standard,Web,Subscription,Subscription Cancellation,Subscription renewal has a problem.,1,4,3,Closed,Subscription Support,140,1432,1440,False
+TKT-0135,2026-03-18 02:43:00,Standard,Web,Product Issue,Product Defect,Received product is defective.,4,3,4,In Progress,Product Support,72,2160,1440,True
+TKT-0136,2026-03-05 08:16:00,Premium,Web,Order,Order Status,Customer wants to modify an order.,4,2,2,In Progress,Order Support,182,635,720,False
+TKT-0137,2026-04-30 17:10:00,Premium,Phone,Product Issue,Product Not Working,Product information appears incorrect.,4,1,4,Closed,Product Support,308,314,720,False
+TKT-0138,2026-06-05 19:26:00,Enterprise,Phone,Delivery,Wrong Delivery Address,Order was delivered to the wrong address.,2,3,5,Resolved,Logistics Support,166,2099,240,True
+TKT-0139,2026-05-10 14:36:00,Standard,Chat,Technical Issue,Integration Error,Integration is not working correctly.,3,3,3,In Progress,Technical Support,340,2599,1440,True
+TKT-0140,2026-04-28 02:03:00,Standard,Web,Delivery,Wrong Delivery Address,Order was delivered to the wrong address.,3,4,5,Resolved,Logistics Support,53,2320,1440,True
+TKT-0141,2026-01-16 10:59:00,Premium,Email,Order,Order Modification,Customer wants to modify an order.,3,4,1,Open,Order Support,5,321,720,False
+TKT-0142,2026-06-20 01:08:00,Standard,Chat,Order,Order Modification,Customer asks about order status.,5,3,3,Closed,Order Support,210,388,1440,False
+TKT-0143,2026-04-08 15:15:00,Standard,Web,Account,Account Locked,Customer needs a password reset.,4,4,5,Resolved,Account Support,60,2290,1440,True
+TKT-0144,2026-04-26 03:43:00,Standard,Email,Payment,Duplicate Charge,Customer reports a duplicate charge.,4,4,1,Closed,Payments Support,350,541,1440,False
+TKT-0145,2026-03-16 15:52:00,Standard,Email,Order,Order Modification,Customer asks about order status.,4,3,4,Resolved,Order Support,134,633,1440,False
+TKT-0146,2026-04-21 01:31:00,Standard,Phone,Technical Issue,Website Error,Application shows an error.,3,3,3,Closed,Technical Support,257,2698,1440,True
+TKT-0147,2026-02-27 17:54:00,Enterprise,Web,Refund,Incorrect Refund,Refunded amount appears incorrect.,2,3,2,In Progress,Payments Support,228,2021,240,True
+TKT-0148,2026-04-26 19:05:00,Standard,Email,Order,Order Modification,Customer asks about order status.,3,3,3,Closed,Order Support,300,1412,1440,False
+TKT-0149,2026-03-27 17:58:00,Standard,Phone,Order,Order Status,Customer wants to cancel an order.,4,4,2,In Progress,Order Support,217,2349,1440,True
+TKT-0150,2026-05-18 04:22:00,Standard,Email,Subscription,Subscription Cancellation,Subscription renewal has a problem.,3,4,2,In Progress,Subscription Support,273,1219,1440,False
+TKT-0151,2026-02-07 08:16:00,Standard,Web,Subscription,Subscription Cancellation,Customer wants to change subscription plan.,3,4,2,Closed,Subscription Support,205,1923,1440,True
+TKT-0152,2026-06-25 18:16:00,Standard,Web,Product Issue,Product Defect,Product information appears incorrect.,3,3,4,Closed,Product Support,115,2105,1440,True
+TKT-0153,2026-01-17 00:02:00,Standard,Web,Subscription,Subscription Cancellation,Customer wants to cancel subscription.,4,2,3,Closed,Subscription Support,195,2280,1440,True
+TKT-0154,2026-01-17 03:40:00,Premium,Email,Order,Order Cancellation,Customer asks about order status.,4,2,1,Closed,Order Support,337,2131,720,True
+TKT-0155,2026-06-29 05:27:00,Enterprise,Web,Payment,Payment Failed,Payment failed during checkout.,1,3,4,Open,Payments Support,428,2833,240,True
+TKT-0156,2026-04-29 02:15:00,Standard,Chat,Technical Issue,App Error,Integration is not working correctly.,3,3,4,In Progress,Technical Support,466,1147,1440,False
+TKT-0157,2026-04-23 04:50:00,Premium,Email,Payment,Payment Failed,Payment is still pending after the order.,3,3,4,Resolved,Payments Support,319,930,720,True
+TKT-0158,2026-01-09 13:59:00,Premium,Email,Payment,Payment Failed,Payment is still pending after the order.,3,5,1,Open,Payments Support,281,2320,720,True
+TKT-0159,2026-05-19 18:24:00,Standard,Chat,Order,Order Cancellation,Customer asks about order status.,2,2,4,In Progress,Order Support,168,1653,1440,True
+TKT-0160,2026-06-12 16:50:00,Enterprise,Email,Refund,Refund Delayed,Customer requests a refund.,4,3,3,Resolved,Payments Support,65,1288,240,True
+TKT-0161,2026-01-22 16:09:00,Standard,Web,Order,Order Cancellation,Customer wants to modify an order.,1,4,4,Closed,Order Support,202,1069,1440,False
+TKT-0162,2026-02-17 21:28:00,Standard,Web,Refund,Refund Request,Refunded amount appears incorrect.,5,2,3,Resolved,Payments Support,69,1648,1440,True
+TKT-0163,2026-04-10 10:46:00,Standard,Email,Delivery,Missing Package,Order was delivered to the wrong address.,3,2,3,Closed,Logistics Support,298,1662,1440,True
+TKT-0164,2026-03-18 23:50:00,Enterprise,Chat,Order,Order Cancellation,Customer wants to cancel an order.,2,3,2,Resolved,Order Support,86,522,240,True
+TKT-0165,2026-06-17 03:08:00,Enterprise,Web,Technical Issue,Website Error,Website returns an error.,5,3,3,Resolved,Technical Support,103,2065,240,True
+TKT-0166,2026-03-25 20:17:00,Enterprise,Chat,Subscription,Renewal Problem,Subscription renewal has a problem.,5,5,3,Resolved,Subscription Support,7,1777,240,True
+TKT-0167,2026-06-27 10:52:00,Enterprise,Chat,Account,Account Locked,Customer needs a password reset.,4,1,5,Closed,Account Support,296,694,240,True
+TKT-0168,2026-05-11 06:26:00,Standard,Phone,Technical Issue,Website Error,Integration is not working correctly.,4,4,1,Open,Technical Support,305,3214,1440,True
+TKT-0169,2026-03-08 15:32:00,Enterprise,Email,Delivery,Late Delivery,Order was delivered to the wrong address.,2,4,4,Resolved,Logistics Support,269,2155,240,True
+TKT-0170,2026-01-07 23:06:00,Standard,Chat,Subscription,Renewal Problem,Subscription renewal has a problem.,4,3,4,Resolved,Subscription Support,215,677,1440,False
+TKT-0171,2026-03-23 10:19:00,Enterprise,Email,Account,Password Reset,Customer cannot log in.,4,3,3,Closed,Account Support,174,1243,240,True
+TKT-0172,2026-04-29 15:51:00,Standard,Phone,Delivery,Wrong Delivery Address,Package was marked delivered but cannot be found.,4,5,3,Closed,Logistics Support,19,1392,1440,False
+TKT-0173,2026-05-28 11:51:00,Standard,Web,Order,Order Cancellation,Customer asks about order status.,3,5,3,In Progress,Order Support,319,1598,1440,True
+TKT-0174,2026-03-31 19:54:00,Standard,Web,Delivery,Missing Package,Package was marked delivered but cannot be found.,3,4,4,Closed,Logistics Support,272,2454,1440,True
+TKT-0175,2026-04-19 03:08:00,Premium,Phone,Delivery,Wrong Delivery Address,Order was delivered to the wrong address.,2,3,2,Resolved,Logistics Support,83,1878,720,True
+TKT-0176,2026-01-03 23:08:00,Standard,Chat,Account,Password Reset,Customer cannot log in.,3,2,3,Closed,Account Support,162,279,1440,False
+TKT-0177,2026-03-16 09:17:00,Enterprise,Web,Order,Order Status,Customer wants to cancel an order.,4,3,3,Resolved,Order Support,266,721,240,True
+TKT-0178,2026-01-12 07:28:00,Standard,Web,Subscription,Plan Change,Customer wants to change subscription plan.,2,2,4,In Progress,Subscription Support,276,1562,1440,True
+TKT-0179,2026-03-02 14:51:00,Standard,Chat,Product Issue,Product Defect,Product is not working as expected.,4,3,2,Resolved,Product Support,245,540,1440,False
+TKT-0180,2026-06-03 01:10:00,Standard,Web,Account,Account Locked,Customer needs a password reset.,4,4,4,Closed,Account Support,5,1496,1440,True
+TKT-0181,2026-03-06 05:25:00,Standard,Phone,Delivery,Late Delivery,Package was marked delivered but cannot be found.,5,5,4,In Progress,Logistics Support,199,2129,1440,True
+TKT-0182,2026-04-05 22:31:00,Standard,Web,Order,Order Modification,Customer wants to modify an order.,4,4,2,Resolved,Order Support,5,1199,1440,False
+TKT-0183,2026-02-24 23:17:00,Premium,Email,Subscription,Plan Change,Subscription renewal has a problem.,4,4,4,Closed,Subscription Support,295,952,720,True
+TKT-0184,2026-04-23 22:00:00,Standard,Chat,Subscription,Renewal Problem,Subscription renewal has a problem.,3,1,4,In Progress,Subscription Support,39,1793,1440,True
+TKT-0185,2026-06-29 15:27:00,Premium,Chat,Product Issue,Product Defect,Product is not working as expected.,3,2,2,Open,Product Support,155,1375,720,True
+TKT-0186,2026-01-31 21:44:00,Standard,Chat,Subscription,Subscription Cancellation,Customer wants to cancel subscription.,3,3,3,Resolved,Subscription Support,82,93,1440,False
+TKT-0187,2026-01-04 03:41:00,Standard,Email,Delivery,Late Delivery,Order has not arrived on time.,2,3,3,Resolved,Logistics Support,175,2623,1440,True
+TKT-0188,2026-04-09 19:27:00,Premium,Chat,Order,Order Status,Customer wants to modify an order.,1,4,2,Closed,Order Support,135,564,720,False
+TKT-0189,2026-05-11 14:47:00,Standard,Email,Technical Issue,Integration Error,Website returns an error.,2,4,5,In Progress,Technical Support,462,1715,1440,True
+TKT-0190,2026-03-23 12:24:00,Standard,Chat,Subscription,Renewal Problem,Customer wants to change subscription plan.,3,2,1,Resolved,Subscription Support,72,109,1440,False
+TKT-0191,2026-04-13 00:18:00,Standard,Chat,Subscription,Subscription Cancellation,Customer wants to change subscription plan.,1,3,2,Closed,Subscription Support,23,307,1440,False
+TKT-0192,2026-02-10 01:20:00,Premium,Web,Order,Order Cancellation,Customer wants to modify an order.,3,3,3,Resolved,Order Support,342,1329,720,True
+TKT-0193,2026-03-22 05:47:00,Premium,Email,Product Issue,Product Not Working,Product is not working as expected.,4,4,1,Closed,Product Support,217,1839,720,True
+TKT-0194,2026-01-31 08:21:00,Standard,Chat,Payment,Payment Failed,Payment is still pending after the order.,4,3,4,In Progress,Payments Support,357,2020,1440,True
+TKT-0195,2026-05-28 05:46:00,Standard,Email,Subscription,Renewal Problem,Customer wants to cancel subscription.,3,3,3,In Progress,Subscription Support,276,1680,1440,True
+TKT-0196,2026-06-17 21:14:00,Standard,Email,Payment,Payment Failed,Payment is still pending after the order.,5,3,2,In Progress,Payments Support,158,1336,1440,False
+TKT-0197,2026-01-12 20:04:00,Enterprise,Phone,Product Issue,Product Defect,Product information appears incorrect.,3,3,5,Closed,Product Support,307,680,240,True
+TKT-0198,2026-03-04 22:23:00,Premium,Phone,Refund,Refund Delayed,Refunded amount appears incorrect.,3,3,3,Closed,Payments Support,298,1304,720,True
+TKT-0199,2026-04-08 07:46:00,Enterprise,Chat,Technical Issue,App Error,Website returns an error.,3,1,4,Open,Technical Support,122,785,240,True
+TKT-0200,2026-05-14 21:44:00,Standard,Chat,Order,Order Modification,Customer wants to modify an order.,2,5,3,Resolved,Order Support,30,1008,1440,False
+TKT-0201,2026-03-08 18:59:00,Premium,Email,Account,Account Locked,Customer needs a password reset.,3,1,3,Closed,Account Support,216,595,720,False
+TKT-0202,2026-04-26 22:20:00,Premium,Phone,Subscription,Renewal Problem,Subscription renewal has a problem.,2,1,4,In Progress,Subscription Support,134,1086,720,True
+TKT-0203,2026-06-29 03:02:00,Standard,Chat,Subscription,Renewal Problem,Customer wants to cancel subscription.,2,3,2,Closed,Subscription Support,252,1306,1440,False
+TKT-0204,2026-04-27 01:47:00,Standard,Email,Technical Issue,Website Error,Integration is not working correctly.,2,1,4,In Progress,Technical Support,348,835,1440,False
+TKT-0205,2026-06-15 10:37:00,Standard,Chat,Delivery,Late Delivery,Order was delivered to the wrong address.,5,4,2,In Progress,Logistics Support,5,2462,1440,True
+TKT-0206,2026-01-13 13:59:00,Premium,Email,Delivery,Late Delivery,Order was delivered to the wrong address.,2,3,5,Resolved,Logistics Support,345,1694,720,True
+TKT-0207,2026-06-15 17:31:00,Premium,Web,Payment,Payment Pending,Payment is still pending after the order.,5,3,3,Closed,Payments Support,277,2190,720,True
+TKT-0208,2026-05-20 08:24:00,Standard,Email,Product Issue,Wrong Product Information,Product is not working as expected.,3,3,4,Resolved,Product Support,85,1080,1440,False
+TKT-0209,2026-01-15 23:33:00,Standard,Web,Refund,Incorrect Refund,Customer requests a refund.,2,3,1,Closed,Payments Support,272,2045,1440,True
+TKT-0210,2026-04-10 19:59:00,Enterprise,Chat,Delivery,Late Delivery,Order has not arrived on time.,3,2,4,In Progress,Logistics Support,351,444,240,True
+TKT-0211,2026-05-06 09:05:00,Standard,Phone,Payment,Duplicate Charge,Payment failed during checkout.,3,3,2,In Progress,Payments Support,340,3186,1440,True
+TKT-0212,2026-01-30 00:55:00,Standard,Web,Payment,Payment Pending,Payment is still pending after the order.,3,4,2,Closed,Payments Support,268,1760,1440,True
+TKT-0213,2026-02-15 06:35:00,Standard,Web,Delivery,Missing Package,Order was delivered to the wrong address.,5,3,4,Closed,Logistics Support,169,2846,1440,True
+TKT-0214,2026-05-27 20:54:00,Standard,Phone,Technical Issue,Integration Error,Integration is not working correctly.,4,3,3,Open,Technical Support,360,790,1440,False
+TKT-0215,2026-01-24 06:42:00,Standard,Chat,Delivery,Missing Package,Order was delivered to the wrong address.,1,3,3,Closed,Logistics Support,87,1711,1440,True
+TKT-0216,2026-04-18 13:56:00,Standard,Email,Product Issue,Product Defect,Product information appears incorrect.,3,4,4,Resolved,Product Support,40,2367,1440,True
+TKT-0217,2026-01-27 10:21:00,Standard,Web,Delivery,Missing Package,Order has not arrived on time.,4,4,2,Closed,Logistics Support,291,2004,1440,True
+TKT-0218,2026-03-26 14:12:00,Standard,Email,Delivery,Missing Package,Package was marked delivered but cannot be found.,4,5,4,Closed,Logistics Support,254,1677,1440,True
+TKT-0219,2026-01-01 21:05:00,Premium,Phone,Product Issue,Wrong Product Information,Product information appears incorrect.,3,2,3,Closed,Product Support,136,2070,720,True
+TKT-0220,2026-05-01 23:57:00,Standard,Web,Technical Issue,App Error,Integration is not working correctly.,2,2,2,In Progress,Technical Support,80,1164,1440,False
+TKT-0221,2026-03-11 02:03:00,Standard,Web,Account,Password Reset,Customer cannot log in.,3,3,3,Closed,Account Support,210,1964,1440,True
+TKT-0222,2026-04-19 01:43:00,Premium,Email,Refund,Incorrect Refund,Customer requests a refund.,3,5,3,Resolved,Payments Support,109,1645,720,True
+TKT-0223,2026-04-25 13:10:00,Standard,Phone,Delivery,Missing Package,Order has not arrived on time.,5,3,4,Closed,Logistics Support,32,909,1440,False
+TKT-0224,2026-01-18 10:24:00,Standard,Web,Delivery,Wrong Delivery Address,Order was delivered to the wrong address.,4,2,2,Resolved,Logistics Support,237,1770,1440,True
+TKT-0225,2026-01-29 02:49:00,Standard,Phone,Subscription,Subscription Cancellation,Customer wants to cancel subscription.,4,3,2,Closed,Subscription Support,334,1675,1440,True
+TKT-0226,2026-06-09 03:43:00,Premium,Phone,Order,Order Modification,Customer asks about order status.,3,4,3,Resolved,Order Support,179,1188,720,True
+TKT-0227,2026-06-29 05:06:00,Standard,Phone,Technical Issue,App Error,Application shows an error.,1,5,4,In Progress,Technical Support,278,1907,1440,True
+TKT-0228,2026-05-13 19:52:00,Enterprise,Web,Refund,Refund Request,Refund is delayed.,1,4,3,Resolved,Payments Support,113,1348,240,True
+TKT-0229,2026-03-05 09:29:00,Standard,Phone,Order,Order Cancellation,Customer wants to cancel an order.,1,4,2,Closed,Order Support,167,882,1440,False
+TKT-0230,2026-06-02 22:11:00,Premium,Phone,Refund,Refund Request,Customer requests a refund.,5,3,4,Resolved,Payments Support,273,1050,720,True
+TKT-0231,2026-06-15 15:43:00,Standard,Chat,Product Issue,Product Not Working,Received product is defective.,3,3,2,In Progress,Product Support,61,937,1440,False
+TKT-0232,2026-04-07 19:29:00,Standard,Email,Payment,Payment Pending,Payment is still pending after the order.,4,2,2,In Progress,Payments Support,247,1874,1440,True
+TKT-0233,2026-05-04 10:21:00,Standard,Web,Delivery,Late Delivery,Package was marked delivered but cannot be found.,5,5,4,Closed,Logistics Support,195,1828,1440,True
+TKT-0234,2026-06-24 12:46:00,Premium,Phone,Product Issue,Product Defect,Received product is defective.,2,3,1,Closed,Product Support,91,1715,720,True
+TKT-0235,2026-02-27 05:34:00,Enterprise,Phone,Order,Order Modification,Customer asks about order status.,3,4,5,Closed,Order Support,99,662,240,True
+TKT-0236,2026-02-17 05:57:00,Enterprise,Phone,Product Issue,Product Defect,Product information appears incorrect.,2,4,2,Closed,Product Support,325,748,240,True
+TKT-0237,2026-06-13 02:37:00,Standard,Chat,Product Issue,Wrong Product Information,Product is not working as expected.,3,3,3,Open,Product Support,184,542,1440,False
+TKT-0238,2026-05-26 22:09:00,Premium,Email,Order,Order Status,Customer wants to modify an order.,4,3,2,Closed,Order Support,167,880,720,True
+TKT-0239,2026-05-28 13:31:00,Standard,Email,Subscription,Renewal Problem,Customer wants to cancel subscription.,3,5,1,In Progress,Subscription Support,271,1815,1440,True
+TKT-0240,2026-03-25 00:12:00,Standard,Web,Order,Order Modification,Customer wants to cancel an order.,1,3,2,Closed,Order Support,259,1588,1440,True
+TKT-0241,2026-03-18 17:29:00,Standard,Chat,Technical Issue,Integration Error,Integration is not working correctly.,3,2,3,Resolved,Technical Support,270,877,1440,False
+TKT-0242,2026-02-03 14:46:00,Standard,Web,Account,Password Reset,Customer cannot log in.,2,3,5,Resolved,Account Support,265,1929,1440,True
+TKT-0243,2026-04-17 22:24:00,Standard,Phone,Payment,Payment Pending,Payment failed during checkout.,3,4,3,Resolved,Payments Support,391,1707,1440,True
+TKT-0244,2026-01-28 00:46:00,Standard,Chat,Technical Issue,Integration Error,Integration is not working correctly.,4,3,4,Open,Technical Support,339,1445,1440,True
+TKT-0245,2026-04-15 17:10:00,Standard,Email,Subscription,Subscription Cancellation,Customer wants to cancel subscription.,2,2,3,Resolved,Subscription Support,326,886,1440,False
+TKT-0246,2026-05-11 10:46:00,Enterprise,Web,Refund,Refund Delayed,Refunded amount appears incorrect.,1,1,2,Open,Payments Support,16,2007,240,True
+TKT-0247,2026-04-04 05:20:00,Standard,Chat,Subscription,Renewal Problem,Subscription renewal has a problem.,1,3,2,Closed,Subscription Support,150,221,1440,False
+TKT-0248,2026-03-29 13:07:00,Standard,Email,Payment,Payment Failed,Payment is still pending after the order.,3,2,3,Resolved,Payments Support,519,1348,1440,False
+TKT-0249,2026-02-10 11:26:00,Standard,Web,Subscription,Renewal Problem,Customer wants to change subscription plan.,2,5,2,Resolved,Subscription Support,245,300,1440,False
+TKT-0250,2026-05-05 11:56:00,Standard,Web,Account,Account Locked,Customer needs a password reset.,3,4,4,Resolved,Account Support,92,595,1440,False
+TKT-0251,2026-06-08 11:27:00,Standard,Phone,Payment,Duplicate Charge,Customer reports a duplicate charge.,2,4,5,Closed,Payments Support,377,3257,1440,True
+TKT-0252,2026-02-12 10:48:00,Standard,Web,Account,Account Locked,Customer needs a password reset.,3,1,2,Resolved,Account Support,328,1982,1440,True
+TKT-0253,2026-05-08 22:20:00,Standard,Phone,Payment,Duplicate Charge,Payment failed during checkout.,3,4,2,Closed,Payments Support,201,3052,1440,True
+TKT-0254,2026-06-18 05:29:00,Premium,Email,Delivery,Missing Package,Package was marked delivered but cannot be found.,3,1,4,Resolved,Logistics Support,226,2348,720,True
+TKT-0255,2026-01-01 18:22:00,Standard,Chat,Subscription,Renewal Problem,Customer wants to change subscription plan.,3,4,4,Closed,Subscription Support,245,1924,1440,True
+TKT-0256,2026-02-20 14:07:00,Standard,Phone,Delivery,Late Delivery,Package was marked delivered but cannot be found.,4,3,4,In Progress,Logistics Support,99,1955,1440,True
+TKT-0257,2026-04-26 22:42:00,Premium,Chat,Refund,Refund Delayed,Refunded amount appears incorrect.,3,1,4,Closed,Payments Support,227,564,720,False
+TKT-0258,2026-01-27 20:42:00,Standard,Web,Payment,Duplicate Charge,Customer reports a duplicate charge.,4,5,3,Closed,Payments Support,105,1969,1440,True
+TKT-0259,2026-02-05 21:38:00,Standard,Web,Order,Order Status,Customer asks about order status.,5,3,5,Closed,Order Support,142,1914,1440,True
+TKT-0260,2026-06-13 18:45:00,Standard,Phone,Technical Issue,App Error,Application shows an error.,4,4,5,Closed,Technical Support,255,1819,1440,True
+TKT-0261,2026-03-16 05:16:00,Standard,Web,Product Issue,Wrong Product Information,Received product is defective.,1,3,2,Closed,Product Support,21,1799,1440,True
+TKT-0262,2026-05-24 20:15:00,Premium,Phone,Technical Issue,Integration Error,Integration is not working correctly.,2,4,4,Closed,Technical Support,18,2820,720,True
+TKT-0263,2026-02-22 03:55:00,Premium,Phone,Payment,Payment Pending,Payment is still pending after the order.,5,5,3,Closed,Payments Support,239,306,720,False
+TKT-0264,2026-04-20 16:35:00,Enterprise,Phone,Technical Issue,Integration Error,Website returns an error.,5,3,1,In Progress,Technical Support,189,1762,240,True
+TKT-0265,2026-05-21 19:04:00,Standard,Phone,Payment,Payment Pending,Customer reports a duplicate charge.,5,1,3,Resolved,Payments Support,292,2297,1440,True
+TKT-0266,2026-03-26 19:18:00,Standard,Chat,Delivery,Wrong Delivery Address,Order has not arrived on time.,3,3,2,Closed,Logistics Support,96,1402,1440,False
+TKT-0267,2026-03-24 20:58:00,Standard,Web,Payment,Payment Failed,Payment failed during checkout.,5,3,4,Resolved,Payments Support,445,1139,1440,False
+TKT-0268,2026-01-25 13:49:00,Standard,Phone,Payment,Duplicate Charge,Customer reports a duplicate charge.,3,4,1,Resolved,Payments Support,244,1504,1440,True
+TKT-0269,2026-02-09 08:29:00,Standard,Chat,Technical Issue,Integration Error,Integration is not working correctly.,4,2,4,Resolved,Technical Support,258,1989,1440,True
+TKT-0270,2026-06-11 20:27:00,Standard,Email,Account,Password Reset,Customer needs a password reset.,4,1,5,Open,Account Support,300,1729,1440,True
+TKT-0271,2026-06-25 17:38:00,Premium,Email,Delivery,Wrong Delivery Address,Order has not arrived on time.,4,1,3,In Progress,Logistics Support,314,2336,720,True
+TKT-0272,2026-06-12 12:19:00,Enterprise,Web,Order,Order Status,Customer asks about order status.,3,3,2,Closed,Order Support,30,1382,240,True
+TKT-0273,2026-03-30 14:26:00,Enterprise,Phone,Payment,Duplicate Charge,Customer reports a duplicate charge.,1,2,3,Closed,Payments Support,335,3338,240,True
+TKT-0274,2026-05-21 10:18:00,Standard,Chat,Technical Issue,Integration Error,Integration is not working correctly.,4,2,3,Open,Technical Support,193,1406,1440,False
+TKT-0275,2026-04-26 18:39:00,Standard,Web,Refund,Refund Request,Refunded amount appears incorrect.,2,4,3,Resolved,Payments Support,62,852,1440,False
+TKT-0276,2026-04-03 12:43:00,Standard,Phone,Refund,Refund Request,Refunded amount appears incorrect.,2,1,2,Resolved,Payments Support,101,1846,1440,True
+TKT-0277,2026-02-06 01:12:00,Standard,Web,Refund,Refund Request,Customer requests a refund.,2,3,4,Closed,Payments Support,264,1209,1440,False
+TKT-0278,2026-05-19 23:41:00,Standard,Email,Payment,Duplicate Charge,Payment failed during checkout.,3,4,4,Resolved,Payments Support,308,1339,1440,False
+TKT-0279,2026-06-08 05:10:00,Standard,Phone,Account,Password Reset,Customer account is locked.,3,3,3,In Progress,Account Support,271,1038,1440,False
+TKT-0280,2026-06-21 14:33:00,Standard,Chat,Subscription,Renewal Problem,Subscription renewal has a problem.,3,2,1,Resolved,Subscription Support,35,1573,1440,True
+TKT-0281,2026-04-08 04:24:00,Enterprise,Email,Payment,Duplicate Charge,Payment is still pending after the order.,3,4,4,Resolved,Payments Support,90,2045,240,True
+TKT-0282,2026-06-04 08:32:00,Premium,Email,Product Issue,Wrong Product Information,Received product is defective.,3,3,4,Resolved,Product Support,129,2054,720,True
+TKT-0283,2026-01-30 23:43:00,Standard,Phone,Technical Issue,App Error,Website returns an error.,4,3,2,Resolved,Technical Support,150,1852,1440,True
+TKT-0284,2026-03-08 13:33:00,Standard,Web,Payment,Payment Failed,Payment is still pending after the order.,2,3,4,Resolved,Payments Support,69,1810,1440,True
+TKT-0285,2026-06-03 12:50:00,Standard,Email,Product Issue,Product Defect,Product is not working as expected.,5,3,4,Closed,Product Support,125,2311,1440,True
+TKT-0286,2026-02-22 00:55:00,Standard,Phone,Account,Account Locked,Customer account is locked.,3,5,1,Closed,Account Support,132,1638,1440,True
+TKT-0287,2026-06-05 01:52:00,Premium,Email,Account,Password Reset,Customer cannot log in.,4,3,3,Closed,Account Support,329,1016,720,True
+TKT-0288,2026-06-29 02:06:00,Premium,Web,Order,Order Modification,Customer wants to modify an order.,3,4,5,In Progress,Order Support,5,1621,720,True
+TKT-0289,2026-05-14 08:24:00,Standard,Chat,Delivery,Missing Package,Order was delivered to the wrong address.,3,4,2,In Progress,Logistics Support,221,1272,1440,False
+TKT-0290,2026-04-05 03:17:00,Premium,Web,Refund,Refund Delayed,Refunded amount appears incorrect.,3,3,3,Resolved,Payments Support,94,2255,720,True
+TKT-0291,2026-04-13 07:08:00,Standard,Web,Account,Password Reset,Customer account is locked.,2,3,3,Open,Account Support,301,1470,1440,True
+TKT-0292,2026-06-12 08:51:00,Standard,Chat,Delivery,Late Delivery,Order has not arrived on time.,3,3,3,Closed,Logistics Support,275,602,1440,False
+TKT-0293,2026-05-14 17:45:00,Standard,Web,Delivery,Late Delivery,Order was delivered to the wrong address.,1,2,1,Open,Logistics Support,149,2454,1440,True
+TKT-0294,2026-05-14 06:14:00,Premium,Chat,Subscription,Renewal Problem,Customer wants to change subscription plan.,4,2,4,In Progress,Subscription Support,20,1795,720,True
+TKT-0295,2026-01-25 01:18:00,Standard,Chat,Payment,Payment Failed,Customer reports a duplicate charge.,3,4,3,Closed,Payments Support,44,1940,1440,True
+TKT-0296,2026-01-29 01:04:00,Enterprise,Phone,Refund,Refund Request,Refunded amount appears incorrect.,2,4,5,In Progress,Payments Support,47,1306,240,True
+TKT-0297,2026-04-29 02:55:00,Enterprise,Phone,Product Issue,Product Not Working,Received product is defective.,3,5,4,Resolved,Product Support,135,1054,240,True
+TKT-0298,2026-04-14 05:47:00,Standard,Web,Technical Issue,Integration Error,Website returns an error.,3,3,3,Open,Technical Support,212,1646,1440,True
+TKT-0299,2026-03-03 07:15:00,Enterprise,Web,Refund,Refund Request,Customer requests a refund.,2,5,5,In Progress,Payments Support,29,583,240,True
+TKT-0300,2026-05-19 09:54:00,Standard,Chat,Refund,Refund Delayed,Customer requests a refund.,1,2,5,Resolved,Payments Support,69,2077,1440,True
+TKT-0301,2026-04-19 23:34:00,Standard,Phone,Subscription,Subscription Cancellation,Customer wants to cancel subscription.,2,3,3,Resolved,Subscription Support,276,281,1440,False
+TKT-0302,2026-01-26 18:23:00,Standard,Chat,Subscription,Subscription Cancellation,Customer wants to change subscription plan.,4,3,1,Closed,Subscription Support,280,923,1440,False
+TKT-0303,2026-04-13 16:28:00,Standard,Phone,Technical Issue,Website Error,Application shows an error.,2,3,3,Resolved,Technical Support,412,2538,1440,True
+TKT-0304,2026-02-15 21:31:00,Enterprise,Chat,Delivery,Wrong Delivery Address,Order has not arrived on time.,3,4,4,Closed,Logistics Support,118,721,240,True
+TKT-0305,2026-05-03 04:06:00,Premium,Phone,Subscription,Renewal Problem,Subscription renewal has a problem.,3,3,3,Closed,Subscription Support,143,1270,720,True
+TKT-0306,2026-06-17 04:34:00,Standard,Phone,Product Issue,Wrong Product Information,Received product is defective.,3,3,4,Closed,Product Support,25,874,1440,False
+TKT-0307,2026-06-13 18:26:00,Standard,Phone,Subscription,Plan Change,Customer wants to change subscription plan.,3,5,3,Closed,Subscription Support,153,653,1440,False
+TKT-0308,2026-04-24 19:47:00,Standard,Email,Delivery,Late Delivery,Order was delivered to the wrong address.,3,2,3,Resolved,Logistics Support,190,1964,1440,True
+TKT-0309,2026-01-27 11:04:00,Standard,Chat,Account,Login Problem,Customer needs a password reset.,4,4,5,Resolved,Account Support,5,2283,1440,True
+TKT-0310,2026-03-14 22:40:00,Standard,Web,Delivery,Late Delivery,Order has not arrived on time.,1,4,5,In Progress,Logistics Support,90,1796,1440,True
+TKT-0311,2026-02-16 02:38:00,Premium,Email,Payment,Duplicate Charge,Payment is still pending after the order.,3,4,4,Closed,Payments Support,236,3217,720,True
+TKT-0312,2026-02-09 17:00:00,Standard,Web,Product Issue,Wrong Product Information,Received product is defective.,4,3,3,Resolved,Product Support,261,1558,1440,True
+TKT-0313,2026-04-21 17:38:00,Premium,Chat,Refund,Refund Request,Refund is delayed.,4,3,3,Closed,Payments Support,255,2014,720,True
+TKT-0314,2026-02-26 16:05:00,Standard,Chat,Order,Order Status,Customer wants to modify an order.,2,3,4,Closed,Order Support,238,1656,1440,True
+TKT-0315,2026-06-13 22:39:00,Standard,Phone,Product Issue,Product Not Working,Product information appears incorrect.,3,4,4,In Progress,Product Support,254,619,1440,False
+TKT-0316,2026-02-03 06:28:00,Standard,Chat,Refund,Refund Delayed,Refunded amount appears incorrect.,3,1,2,Open,Payments Support,92,478,1440,False
+TKT-0317,2026-01-09 18:05:00,Standard,Email,Subscription,Subscription Cancellation,Customer wants to cancel subscription.,4,3,3,Open,Subscription Support,190,1581,1440,True
+TKT-0318,2026-03-05 20:49:00,Premium,Email,Subscription,Subscription Cancellation,Subscription renewal has a problem.,2,5,3,In Progress,Subscription Support,102,559,720,False
+TKT-0319,2026-05-22 00:07:00,Enterprise,Chat,Subscription,Plan Change,Subscription renewal has a problem.,5,3,3,Resolved,Subscription Support,63,1173,240,True
+TKT-0320,2026-01-03 09:37:00,Standard,Phone,Payment,Duplicate Charge,Customer reports a duplicate charge.,3,2,1,Resolved,Payments Support,154,2387,1440,True
+TKT-0321,2026-02-10 06:34:00,Standard,Phone,Delivery,Late Delivery,Order has not arrived on time.,4,3,3,In Progress,Logistics Support,95,427,1440,False
+TKT-0322,2026-05-06 06:28:00,Standard,Phone,Subscription,Plan Change,Customer wants to change subscription plan.,3,1,4,In Progress,Subscription Support,113,1086,1440,False
+TKT-0323,2026-02-09 22:18:00,Premium,Chat,Account,Account Locked,Customer needs a password reset.,3,3,4,Resolved,Account Support,193,2331,720,True
+TKT-0324,2026-05-18 20:12:00,Standard,Web,Account,Login Problem,Customer account is locked.,4,4,2,Closed,Account Support,230,319,1440,False
+TKT-0325,2026-02-03 13:55:00,Premium,Chat,Product Issue,Wrong Product Information,Received product is defective.,2,4,3,In Progress,Product Support,206,239,720,False
+TKT-0326,2026-01-19 08:59:00,Standard,Email,Payment,Duplicate Charge,Payment failed during checkout.,3,4,4,Closed,Payments Support,400,1011,1440,False
+TKT-0327,2026-05-16 09:46:00,Enterprise,Email,Subscription,Plan Change,Customer wants to cancel subscription.,4,3,5,Closed,Subscription Support,46,1209,240,True
+TKT-0328,2026-02-16 01:47:00,Standard,Chat,Delivery,Late Delivery,Order was delivered to the wrong address.,2,3,3,Resolved,Logistics Support,133,2245,1440,True
+TKT-0329,2026-03-29 05:10:00,Standard,Phone,Subscription,Plan Change,Customer wants to change subscription plan.,2,3,4,Closed,Subscription Support,355,2312,1440,True
+TKT-0330,2026-05-26 01:13:00,Standard,Phone,Refund,Incorrect Refund,Customer requests a refund.,3,4,4,Closed,Payments Support,66,1384,1440,False
+TKT-0331,2026-01-02 17:14:00,Enterprise,Phone,Refund,Refund Request,Refund is delayed.,1,5,1,Closed,Payments Support,198,888,240,True
+TKT-0332,2026-03-18 10:36:00,Standard,Phone,Account,Login Problem,Customer needs a password reset.,2,3,3,Resolved,Account Support,34,1083,1440,False
+TKT-0333,2026-03-18 09:46:00,Standard,Email,Refund,Refund Request,Refunded amount appears incorrect.,4,3,4,Resolved,Payments Support,103,450,1440,False
+TKT-0334,2026-06-11 20:03:00,Premium,Phone,Refund,Refund Request,Customer requests a refund.,2,5,4,Resolved,Payments Support,123,123,720,False
+TKT-0335,2026-05-29 00:05:00,Standard,Chat,Refund,Incorrect Refund,Refund is delayed.,4,2,5,Resolved,Payments Support,128,1885,1440,True
+TKT-0336,2026-04-23 06:08:00,Premium,Chat,Account,Password Reset,Customer cannot log in.,4,3,3,Resolved,Account Support,57,1777,720,True
+TKT-0337,2026-04-19 19:22:00,Standard,Web,Technical Issue,Integration Error,Application shows an error.,1,2,4,Resolved,Technical Support,464,2563,1440,True
+TKT-0338,2026-02-22 05:23:00,Standard,Email,Product Issue,Product Defect,Received product is defective.,5,4,3,Closed,Product Support,166,1948,1440,True
+TKT-0339,2026-01-06 18:13:00,Premium,Email,Payment,Payment Failed,Customer reports a duplicate charge.,4,4,1,Resolved,Payments Support,271,1139,720,True
+TKT-0340,2026-01-16 17:12:00,Standard,Phone,Subscription,Plan Change,Customer wants to change subscription plan.,4,4,3,Closed,Subscription Support,5,2217,1440,True
+TKT-0341,2026-06-16 20:14:00,Standard,Email,Delivery,Missing Package,Package was marked delivered but cannot be found.,4,3,4,Resolved,Logistics Support,353,540,1440,False
+TKT-0342,2026-01-06 09:15:00,Premium,Phone,Subscription,Plan Change,Customer wants to change subscription plan.,2,2,5,Resolved,Subscription Support,287,2356,720,True
+TKT-0343,2026-04-10 08:35:00,Standard,Chat,Payment,Payment Pending,Payment is still pending after the order.,2,4,5,In Progress,Payments Support,211,1315,1440,False
+TKT-0344,2026-05-27 12:27:00,Standard,Web,Account,Login Problem,Customer needs a password reset.,4,3,4,Closed,Account Support,210,991,1440,False
+TKT-0345,2026-04-21 12:41:00,Standard,Chat,Technical Issue,Integration Error,Integration is not working correctly.,4,3,4,Closed,Technical Support,233,2397,1440,True
+TKT-0346,2026-06-14 07:17:00,Standard,Email,Account,Password Reset,Customer cannot log in.,4,4,5,Closed,Account Support,27,1744,1440,True
+TKT-0347,2026-02-05 00:54:00,Standard,Chat,Payment,Duplicate Charge,Customer reports a duplicate charge.,3,4,3,Resolved,Payments Support,359,2446,1440,True
+TKT-0348,2026-04-16 15:47:00,Standard,Chat,Order,Order Modification,Customer asks about order status.,2,2,1,Closed,Order Support,257,257,1440,False
+TKT-0349,2026-01-12 03:47:00,Premium,Email,Account,Password Reset,Customer needs a password reset.,3,3,3,Closed,Account Support,330,1070,720,True
+TKT-0350,2026-01-12 01:24:00,Standard,Email,Delivery,Missing Package,Order was delivered to the wrong address.,1,4,5,Closed,Logistics Support,172,3073,1440,True
+TKT-0351,2026-01-15 06:33:00,Enterprise,Chat,Product Issue,Wrong Product Information,Received product is defective.,4,5,3,Resolved,Product Support,187,1640,240,True
+TKT-0352,2026-06-02 06:57:00,Standard,Email,Delivery,Late Delivery,Order has not arrived on time.,4,5,2,Closed,Logistics Support,252,2399,1440,True
+TKT-0353,2026-04-10 07:50:00,Standard,Phone,Account,Account Locked,Customer account is locked.,4,2,4,Closed,Account Support,78,409,1440,False
+TKT-0354,2026-03-22 07:49:00,Standard,Web,Payment,Payment Failed,Payment is still pending after the order.,4,4,2,In Progress,Payments Support,302,897,1440,False
+TKT-0355,2026-06-01 05:30:00,Standard,Chat,Technical Issue,App Error,Website returns an error.,3,1,3,Resolved,Technical Support,397,1093,1440,False
+TKT-0356,2026-01-10 12:54:00,Standard,Email,Technical Issue,Integration Error,Application shows an error.,4,4,2,Closed,Technical Support,282,779,1440,False
+TKT-0357,2026-06-28 06:38:00,Premium,Phone,Refund,Refund Delayed,Refunded amount appears incorrect.,5,2,2,Closed,Payments Support,40,1224,720,True
+TKT-0358,2026-05-21 10:18:00,Standard,Web,Refund,Refund Delayed,Customer requests a refund.,3,4,5,In Progress,Payments Support,5,337,1440,False
+TKT-0359,2026-06-12 00:05:00,Premium,Phone,Refund,Incorrect Refund,Customer requests a refund.,4,3,4,Closed,Payments Support,226,507,720,False
+TKT-0360,2026-05-09 00:46:00,Standard,Phone,Order,Order Status,Customer asks about order status.,3,3,4,Resolved,Order Support,177,591,1440,False
+TKT-0361,2026-04-17 21:02:00,Premium,Chat,Product Issue,Product Defect,Product information appears incorrect.,3,2,4,Resolved,Product Support,15,909,720,True
+TKT-0362,2026-01-02 11:43:00,Premium,Chat,Payment,Duplicate Charge,Payment is still pending after the order.,4,3,3,Resolved,Payments Support,294,3261,720,True
+TKT-0363,2026-05-04 12:40:00,Premium,Email,Account,Login Problem,Customer needs a password reset.,5,4,3,Closed,Account Support,114,205,720,False
+TKT-0364,2026-02-24 02:43:00,Standard,Phone,Subscription,Renewal Problem,Subscription renewal has a problem.,2,4,4,Closed,Subscription Support,5,2334,1440,True
+TKT-0365,2026-02-18 03:07:00,Premium,Phone,Delivery,Late Delivery,Package was marked delivered but cannot be found.,3,4,3,Closed,Logistics Support,80,1908,720,True
+TKT-0366,2026-02-14 11:23:00,Standard,Email,Product Issue,Wrong Product Information,Received product is defective.,2,3,3,Closed,Product Support,59,2089,1440,True
+TKT-0367,2026-01-27 00:43:00,Enterprise,Web,Payment,Payment Pending,Payment failed during checkout.,5,2,4,In Progress,Payments Support,310,2442,240,True
+TKT-0368,2026-01-28 00:49:00,Standard,Web,Delivery,Late Delivery,Order was delivered to the wrong address.,4,5,3,Closed,Logistics Support,153,2381,1440,True
+TKT-0369,2026-01-30 08:39:00,Standard,Phone,Technical Issue,Website Error,Integration is not working correctly.,3,3,4,Resolved,Technical Support,166,2030,1440,True
+TKT-0370,2026-03-29 01:28:00,Standard,Phone,Refund,Refund Request,Refund is delayed.,4,5,3,In Progress,Payments Support,56,351,1440,False
+TKT-0371,2026-02-21 06:48:00,Standard,Email,Delivery,Missing Package,Order was delivered to the wrong address.,3,2,4,Closed,Logistics Support,42,2614,1440,True
+TKT-0372,2026-02-27 12:55:00,Standard,Web,Account,Login Problem,Customer account is locked.,3,2,4,In Progress,Account Support,254,1966,1440,True
+TKT-0373,2026-02-13 17:49:00,Standard,Chat,Refund,Refund Request,Customer requests a refund.,1,3,2,Closed,Payments Support,247,2020,1440,True
+TKT-0374,2026-06-01 21:15:00,Standard,Email,Order,Order Status,Customer asks about order status.,3,3,4,In Progress,Order Support,69,2242,1440,True
+TKT-0375,2026-03-30 01:44:00,Standard,Web,Order,Order Cancellation,Customer wants to cancel an order.,4,2,3,In Progress,Order Support,189,1843,1440,True
+TKT-0376,2026-01-19 03:06:00,Premium,Web,Delivery,Wrong Delivery Address,Order was delivered to the wrong address.,3,3,4,Closed,Logistics Support,320,1411,720,True
+TKT-0377,2026-06-19 12:28:00,Premium,Web,Refund,Refund Request,Refunded amount appears incorrect.,1,4,4,In Progress,Payments Support,261,261,720,False
+TKT-0378,2026-05-30 08:39:00,Standard,Web,Technical Issue,App Error,Integration is not working correctly.,5,3,3,Resolved,Technical Support,253,2545,1440,True
+TKT-0379,2026-03-02 21:44:00,Standard,Phone,Payment,Payment Pending,Customer reports a duplicate charge.,3,1,5,Resolved,Payments Support,309,1086,1440,False
+TKT-0380,2026-04-03 21:09:00,Standard,Web,Order,Order Modification,Customer wants to modify an order.,4,3,3,Closed,Order Support,237,830,1440,False
+TKT-0381,2026-04-28 06:38:00,Premium,Chat,Payment,Payment Failed,Payment is still pending after the order.,4,2,4,Closed,Payments Support,350,1601,720,True
+TKT-0382,2026-03-03 06:32:00,Standard,Web,Subscription,Renewal Problem,Subscription renewal has a problem.,3,2,1,Resolved,Subscription Support,196,2100,1440,True
+TKT-0383,2026-05-15 16:29:00,Standard,Phone,Payment,Payment Failed,Customer reports a duplicate charge.,2,4,3,Open,Payments Support,330,677,1440,False
+TKT-0384,2026-05-17 08:30:00,Premium,Email,Technical Issue,Website Error,Website returns an error.,1,5,4,Resolved,Technical Support,394,1447,720,True
+TKT-0385,2026-05-25 16:03:00,Standard,Phone,Order,Order Modification,Customer asks about order status.,1,3,5,Resolved,Order Support,165,1305,1440,False
+TKT-0386,2026-03-13 16:08:00,Standard,Email,Product Issue,Product Not Working,Product is not working as expected.,3,1,2,In Progress,Product Support,334,374,1440,False
+TKT-0387,2026-03-02 23:11:00,Premium,Email,Delivery,Wrong Delivery Address,Order was delivered to the wrong address.,4,5,4,Closed,Logistics Support,47,1313,720,True
+TKT-0388,2026-06-13 13:13:00,Standard,Email,Account,Account Locked,Customer account is locked.,4,4,3,Closed,Account Support,34,1034,1440,False
+TKT-0389,2026-04-10 23:16:00,Standard,Phone,Delivery,Late Delivery,Order has not arrived on time.,3,3,3,Resolved,Logistics Support,100,2719,1440,True
+TKT-0390,2026-04-22 03:58:00,Standard,Phone,Subscription,Renewal Problem,Customer wants to change subscription plan.,4,5,1,Closed,Subscription Support,98,1509,1440,True
+TKT-0391,2026-06-24 06:11:00,Standard,Phone,Delivery,Missing Package,Package was marked delivered but cannot be found.,3,3,4,Resolved,Logistics Support,350,1449,1440,True
+TKT-0392,2026-06-08 10:03:00,Premium,Email,Payment,Payment Pending,Customer reports a duplicate charge.,3,2,2,Closed,Payments Support,199,1735,720,True
+TKT-0393,2026-06-28 13:16:00,Premium,Email,Delivery,Late Delivery,Package was marked delivered but cannot be found.,4,2,5,Resolved,Logistics Support,324,2756,720,True
+TKT-0394,2026-03-27 09:16:00,Enterprise,Web,Product Issue,Wrong Product Information,Product information appears incorrect.,3,4,2,In Progress,Product Support,337,1065,240,True
+TKT-0395,2026-01-28 22:45:00,Standard,Chat,Order,Order Cancellation,Customer wants to modify an order.,2,3,4,Open,Order Support,345,954,1440,False
+TKT-0396,2026-06-29 18:57:00,Standard,Phone,Subscription,Subscription Cancellation,Subscription renewal has a problem.,3,2,5,Resolved,Subscription Support,269,1659,1440,True
+TKT-0397,2026-02-02 02:34:00,Standard,Web,Subscription,Renewal Problem,Subscription renewal has a problem.,4,4,4,Resolved,Subscription Support,142,2457,1440,True
+TKT-0398,2026-04-10 05:12:00,Standard,Email,Delivery,Missing Package,Package was marked delivered but cannot be found.,3,4,4,Closed,Logistics Support,181,1662,1440,True
+TKT-0399,2026-06-01 15:31:00,Premium,Phone,Subscription,Subscription Cancellation,Subscription renewal has a problem.,2,3,1,Open,Subscription Support,338,338,720,False
+TKT-0400,2026-02-25 04:42:00,Standard,Phone,Subscription,Plan Change,Customer wants to change subscription plan.,1,5,3,Resolved,Subscription Support,192,235,1440,False
+TKT-0401,2026-02-03 08:11:00,Premium,Chat,Technical Issue,App Error,Integration is not working correctly.,1,3,5,Open,Technical Support,69,744,720,True
+TKT-0402,2026-06-07 15:04:00,Standard,Email,Subscription,Plan Change,Customer wants to cancel subscription.,1,4,4,Resolved,Subscription Support,78,2096,1440,True
+TKT-0403,2026-06-01 13:21:00,Premium,Web,Refund,Refund Delayed,Refund is delayed.,3,3,5,In Progress,Payments Support,309,933,720,True
+TKT-0404,2026-02-10 08:56:00,Standard,Web,Account,Account Locked,Customer needs a password reset.,3,3,5,Open,Account Support,204,2240,1440,True
+TKT-0405,2026-02-15 03:44:00,Standard,Email,Product Issue,Wrong Product Information,Received product is defective.,2,4,4,Resolved,Product Support,182,1904,1440,True
+TKT-0406,2026-06-08 19:55:00,Premium,Email,Product Issue,Wrong Product Information,Product is not working as expected.,2,1,2,Resolved,Product Support,229,2231,720,True
+TKT-0407,2026-02-11 05:59:00,Standard,Chat,Product Issue,Product Defect,Received product is defective.,2,2,4,Open,Product Support,114,2003,1440,True
+TKT-0408,2026-02-15 13:50:00,Standard,Chat,Order,Order Modification,Customer wants to cancel an order.,4,4,3,Resolved,Order Support,163,274,1440,False
+TKT-0409,2026-01-29 18:14:00,Standard,Chat,Subscription,Plan Change,Customer wants to cancel subscription.,2,3,4,In Progress,Subscription Support,311,1394,1440,False
+TKT-0410,2026-02-15 20:23:00,Standard,Chat,Order,Order Cancellation,Customer wants to cancel an order.,3,3,5,Resolved,Order Support,52,2401,1440,True
+TKT-0411,2026-04-28 21:10:00,Standard,Phone,Product Issue,Product Defect,Product information appears incorrect.,4,2,1,In Progress,Product Support,186,2423,1440,True
+TKT-0412,2026-04-29 16:00:00,Standard,Chat,Account,Account Locked,Customer account is locked.,1,4,4,Resolved,Account Support,226,946,1440,False
+TKT-0413,2026-01-12 09:30:00,Premium,Chat,Refund,Refund Request,Refunded amount appears incorrect.,5,2,5,Closed,Payments Support,311,311,720,False
+TKT-0414,2026-04-15 14:08:00,Standard,Web,Subscription,Plan Change,Subscription renewal has a problem.,2,3,3,In Progress,Subscription Support,65,110,1440,False
+TKT-0415,2026-02-06 06:25:00,Standard,Email,Payment,Payment Pending,Payment failed during checkout.,3,2,3,Closed,Payments Support,435,1090,1440,False
+TKT-0416,2026-02-24 05:05:00,Standard,Web,Payment,Duplicate Charge,Customer reports a duplicate charge.,3,5,1,Closed,Payments Support,85,2275,1440,True
+TKT-0417,2026-01-19 01:45:00,Premium,Email,Refund,Refund Delayed,Refund is delayed.,3,3,1,In Progress,Payments Support,71,1894,720,True
+TKT-0418,2026-03-11 00:43:00,Standard,Email,Subscription,Plan Change,Subscription renewal has a problem.,4,4,4,In Progress,Subscription Support,205,983,1440,False
+TKT-0419,2026-04-27 03:23:00,Standard,Phone,Subscription,Renewal Problem,Customer wants to change subscription plan.,2,3,4,Closed,Subscription Support,271,2242,1440,True
+TKT-0420,2026-06-28 12:31:00,Premium,Email,Technical Issue,Website Error,Application shows an error.,2,3,5,Closed,Technical Support,79,979,720,True
+TKT-0421,2026-01-17 08:55:00,Standard,Email,Product Issue,Wrong Product Information,Received product is defective.,3,5,3,Closed,Product Support,188,188,1440,False
+TKT-0422,2026-04-24 22:19:00,Standard,Phone,Order,Order Status,Customer asks about order status.,4,4,3,In Progress,Order Support,95,2231,1440,True
+TKT-0423,2026-04-27 13:39:00,Premium,Chat,Product Issue,Product Defect,Received product is defective.,2,3,4,Closed,Product Support,262,667,720,False
+TKT-0424,2026-02-17 14:35:00,Standard,Chat,Account,Login Problem,Customer account is locked.,5,2,3,Open,Account Support,136,1865,1440,True
+TKT-0425,2026-05-08 12:29:00,Standard,Phone,Account,Password Reset,Customer needs a password reset.,2,3,3,In Progress,Account Support,244,244,1440,False
+TKT-0426,2026-04-24 18:44:00,Enterprise,Phone,Product Issue,Wrong Product Information,Received product is defective.,4,5,5,Closed,Product Support,68,373,240,True
+TKT-0427,2026-02-20 02:33:00,Enterprise,Chat,Delivery,Missing Package,Order has not arrived on time.,4,3,3,Closed,Logistics Support,27,1078,240,True
+TKT-0428,2026-06-05 00:03:00,Premium,Chat,Payment,Payment Failed,Customer reports a duplicate charge.,5,4,5,Resolved,Payments Support,344,1860,720,True
+TKT-0429,2026-01-23 14:46:00,Standard,Web,Refund,Refund Request,Customer requests a refund.,3,1,3,Closed,Payments Support,205,1885,1440,True
+TKT-0430,2026-05-03 00:21:00,Standard,Web,Product Issue,Product Defect,Received product is defective.,3,4,4,Closed,Product Support,146,2091,1440,True
+TKT-0431,2026-03-17 01:31:00,Standard,Web,Delivery,Late Delivery,Order has not arrived on time.,2,4,2,Closed,Logistics Support,155,2666,1440,True
+TKT-0432,2026-06-12 23:07:00,Standard,Phone,Subscription,Plan Change,Customer wants to change subscription plan.,4,2,2,Closed,Subscription Support,252,1289,1440,False
+TKT-0433,2026-04-04 02:30:00,Standard,Chat,Subscription,Plan Change,Customer wants to change subscription plan.,2,2,3,Resolved,Subscription Support,345,345,1440,False
+TKT-0434,2026-06-27 12:22:00,Standard,Web,Delivery,Missing Package,Order has not arrived on time.,1,4,3,Open,Logistics Support,193,598,1440,False
+TKT-0435,2026-02-13 01:20:00,Standard,Phone,Payment,Payment Pending,Payment is still pending after the order.,1,4,2,Closed,Payments Support,209,1003,1440,False
+TKT-0436,2026-04-06 23:26:00,Premium,Phone,Product Issue,Product Not Working,Product information appears incorrect.,3,2,4,Closed,Product Support,200,1326,720,True
+TKT-0437,2026-05-23 06:48:00,Standard,Chat,Account,Account Locked,Customer cannot log in.,4,4,3,Resolved,Account Support,30,2213,1440,True
+TKT-0438,2026-03-29 13:45:00,Enterprise,Email,Account,Login Problem,Customer needs a password reset.,4,3,2,Open,Account Support,260,1565,240,True
+TKT-0439,2026-01-29 10:01:00,Premium,Chat,Account,Account Locked,Customer needs a password reset.,3,4,2,Closed,Account Support,67,1800,720,True
+TKT-0440,2026-01-25 11:58:00,Standard,Email,Payment,Duplicate Charge,Customer reports a duplicate charge.,2,1,3,In Progress,Payments Support,428,948,1440,False
+TKT-0441,2026-06-06 15:32:00,Enterprise,Chat,Refund,Refund Delayed,Refunded amount appears incorrect.,4,2,3,Open,Payments Support,61,1304,240,True
+TKT-0442,2026-05-02 19:44:00,Premium,Email,Technical Issue,Integration Error,Integration is not working correctly.,4,2,1,In Progress,Technical Support,185,902,720,True
+TKT-0443,2026-05-14 12:31:00,Premium,Email,Account,Password Reset,Customer needs a password reset.,3,3,3,Closed,Account Support,209,1347,720,True
+TKT-0444,2026-04-15 17:54:00,Standard,Email,Delivery,Missing Package,Package was marked delivered but cannot be found.,2,2,4,In Progress,Logistics Support,267,2246,1440,True
+TKT-0445,2026-01-22 11:09:00,Standard,Web,Refund,Refund Delayed,Customer requests a refund.,3,5,2,Resolved,Payments Support,5,2200,1440,True
+TKT-0446,2026-04-20 07:31:00,Standard,Email,Account,Login Problem,Customer needs a password reset.,3,5,3,Closed,Account Support,140,562,1440,False
+TKT-0447,2026-01-28 11:16:00,Premium,Phone,Order,Order Modification,Customer wants to modify an order.,5,4,5,Resolved,Order Support,183,1681,720,True
+TKT-0448,2026-06-09 11:48:00,Standard,Chat,Payment,Payment Failed,Payment failed during checkout.,1,3,2,Closed,Payments Support,59,1711,1440,True
+TKT-0449,2026-01-09 21:56:00,Standard,Web,Subscription,Subscription Cancellation,Customer wants to cancel subscription.,3,4,3,Resolved,Subscription Support,112,2274,1440,True
+TKT-0450,2026-02-12 23:27:00,Standard,Web,Subscription,Renewal Problem,Customer wants to cancel subscription.,3,1,4,Resolved,Subscription Support,33,1301,1440,False
+TKT-0451,2026-04-11 16:31:00,Standard,Email,Subscription,Plan Change,Customer wants to change subscription plan.,3,4,3,Closed,Subscription Support,179,700,1440,False
+TKT-0452,2026-05-30 08:48:00,Standard,Phone,Product Issue,Wrong Product Information,Product is not working as expected.,1,1,4,Resolved,Product Support,46,1488,1440,True
+TKT-0453,2026-06-26 10:55:00,Standard,Phone,Refund,Refund Request,Customer requests a refund.,2,1,2,Open,Payments Support,194,1338,1440,False
+TKT-0454,2026-04-08 02:24:00,Standard,Phone,Payment,Payment Pending,Payment is still pending after the order.,5,3,3,Resolved,Payments Support,459,2028,1440,True
+TKT-0455,2026-05-18 14:18:00,Premium,Email,Technical Issue,Website Error,Website returns an error.,4,4,2,Open,Technical Support,349,2440,720,True
+TKT-0456,2026-06-16 17:32:00,Enterprise,Web,Technical Issue,Integration Error,Website returns an error.,3,2,1,Resolved,Technical Support,210,2990,240,True
+TKT-0457,2026-05-13 13:36:00,Standard,Chat,Order,Order Modification,Customer wants to modify an order.,3,4,4,In Progress,Order Support,110,136,1440,False
+TKT-0458,2026-02-07 15:09:00,Enterprise,Web,Product Issue,Product Not Working,Product is not working as expected.,4,4,5,Closed,Product Support,205,1217,240,True
+TKT-0459,2026-06-03 15:25:00,Standard,Web,Order,Order Modification,Customer wants to cancel an order.,4,4,3,Open,Order Support,5,717,1440,False
+TKT-0460,2026-02-04 08:16:00,Standard,Chat,Product Issue,Wrong Product Information,Product information appears incorrect.,3,3,4,Closed,Product Support,263,2028,1440,True
+TKT-0461,2026-04-15 19:42:00,Standard,Email,Subscription,Subscription Cancellation,Customer wants to change subscription plan.,1,4,4,Closed,Subscription Support,5,320,1440,False
+TKT-0462,2026-01-24 15:38:00,Standard,Chat,Technical Issue,App Error,Application shows an error.,3,5,4,Closed,Technical Support,326,2726,1440,True
+TKT-0463,2026-01-15 23:34:00,Standard,Web,Technical Issue,Website Error,Website returns an error.,2,2,3,Closed,Technical Support,162,2252,1440,True
+TKT-0464,2026-03-20 08:41:00,Standard,Web,Subscription,Plan Change,Customer wants to change subscription plan.,4,5,5,Open,Subscription Support,85,2006,1440,True
+TKT-0465,2026-04-24 20:00:00,Premium,Email,Technical Issue,Website Error,Website returns an error.,5,3,3,Closed,Technical Support,395,1654,720,True
+TKT-0466,2026-01-21 23:30:00,Enterprise,Phone,Delivery,Late Delivery,Order was delivered to the wrong address.,4,2,5,Resolved,Logistics Support,167,2174,240,True
+TKT-0467,2026-01-08 09:41:00,Premium,Web,Delivery,Late Delivery,Order was delivered to the wrong address.,3,3,4,In Progress,Logistics Support,148,2972,720,True
+TKT-0468,2026-06-16 12:54:00,Standard,Chat,Payment,Payment Pending,Customer reports a duplicate charge.,3,3,2,Closed,Payments Support,277,2139,1440,True
+TKT-0469,2026-04-05 13:25:00,Premium,Phone,Subscription,Renewal Problem,Subscription renewal has a problem.,4,3,4,Closed,Subscription Support,83,1598,720,True
+TKT-0470,2026-02-13 09:25:00,Premium,Chat,Payment,Payment Failed,Customer reports a duplicate charge.,2,4,2,Resolved,Payments Support,396,1408,720,True
+TKT-0471,2026-05-07 11:14:00,Standard,Email,Refund,Refund Delayed,Refunded amount appears incorrect.,4,2,3,In Progress,Payments Support,305,1918,1440,True
+TKT-0472,2026-02-18 21:11:00,Enterprise,Phone,Product Issue,Product Not Working,Product information appears incorrect.,3,3,2,Closed,Product Support,268,798,240,True
+TKT-0473,2026-06-27 20:43:00,Standard,Phone,Technical Issue,Integration Error,Application shows an error.,4,3,3,Closed,Technical Support,308,2132,1440,True
+TKT-0474,2026-06-08 20:19:00,Premium,Phone,Delivery,Late Delivery,Package was marked delivered but cannot be found.,3,1,2,Closed,Logistics Support,300,1783,720,True
+TKT-0475,2026-04-21 12:16:00,Standard,Email,Account,Password Reset,Customer cannot log in.,5,3,4,Resolved,Account Support,101,2556,1440,True
+TKT-0476,2026-02-12 18:47:00,Enterprise,Web,Product Issue,Product Not Working,Product information appears incorrect.,2,5,4,Closed,Product Support,111,876,240,True
+TKT-0477,2026-01-11 22:22:00,Standard,Web,Payment,Payment Failed,Customer reports a duplicate charge.,1,2,3,Resolved,Payments Support,104,2866,1440,True
+TKT-0478,2026-03-12 02:57:00,Standard,Email,Account,Login Problem,Customer account is locked.,4,2,2,Resolved,Account Support,193,749,1440,False
+TKT-0479,2026-04-11 19:37:00,Standard,Email,Account,Password Reset,Customer cannot log in.,3,2,2,Closed,Account Support,54,1719,1440,True
+TKT-0480,2026-01-13 04:39:00,Standard,Email,Subscription,Plan Change,Subscription renewal has a problem.,3,3,3,Resolved,Subscription Support,352,352,1440,False
+TKT-0481,2026-02-15 15:49:00,Premium,Chat,Technical Issue,App Error,Website returns an error.,1,3,1,Open,Technical Support,416,1811,720,True
+TKT-0482,2026-03-22 05:38:00,Premium,Chat,Order,Order Modification,Customer wants to cancel an order.,5,4,2,Resolved,Order Support,112,2070,720,True
+TKT-0483,2026-04-23 04:27:00,Standard,Phone,Technical Issue,Website Error,Application shows an error.,3,3,3,Open,Technical Support,342,2544,1440,True
+TKT-0484,2026-03-18 12:08:00,Standard,Web,Technical Issue,Integration Error,Integration is not working correctly.,3,3,2,Closed,Technical Support,220,2872,1440,True
+TKT-0485,2026-01-25 22:42:00,Premium,Web,Product Issue,Product Not Working,Product is not working as expected.,5,3,3,Resolved,Product Support,39,2151,720,True
+TKT-0486,2026-03-18 18:37:00,Standard,Phone,Delivery,Wrong Delivery Address,Order was delivered to the wrong address.,4,2,2,Resolved,Logistics Support,23,2322,1440,True
+TKT-0487,2026-01-05 08:25:00,Premium,Phone,Refund,Refund Delayed,Refund is delayed.,4,2,4,Open,Payments Support,123,495,720,False
+TKT-0488,2026-06-27 05:25:00,Premium,Web,Order,Order Status,Customer wants to modify an order.,3,4,4,Open,Order Support,235,1537,720,True
+TKT-0489,2026-05-18 14:05:00,Standard,Chat,Delivery,Late Delivery,Package was marked delivered but cannot be found.,2,4,4,Closed,Logistics Support,18,1942,1440,True
+TKT-0490,2026-03-18 02:53:00,Standard,Web,Payment,Payment Failed,Payment is still pending after the order.,3,4,3,Open,Payments Support,127,3099,1440,True
+TKT-0491,2026-05-13 02:46:00,Standard,Web,Order,Order Modification,Customer asks about order status.,3,3,3,Closed,Order Support,311,2056,1440,True
+TKT-0492,2026-04-26 06:27:00,Enterprise,Web,Technical Issue,Integration Error,Application shows an error.,3,1,3,In Progress,Technical Support,181,1769,240,True
+TKT-0493,2026-04-10 21:53:00,Premium,Web,Refund,Refund Request,Refunded amount appears incorrect.,3,3,4,Closed,Payments Support,133,1978,720,True
+TKT-0494,2026-06-05 23:06:00,Standard,Web,Account,Account Locked,Customer needs a password reset.,4,3,4,Closed,Account Support,121,1790,1440,True
+TKT-0495,2026-03-28 21:07:00,Standard,Chat,Technical Issue,Integration Error,Integration is not working correctly.,2,3,4,In Progress,Technical Support,43,1806,1440,True
+TKT-0496,2026-01-28 06:03:00,Standard,Web,Product Issue,Wrong Product Information,Product information appears incorrect.,4,4,3,Closed,Product Support,167,2171,1440,True
+TKT-0497,2026-02-22 19:10:00,Enterprise,Email,Delivery,Wrong Delivery Address,Order was delivered to the wrong address.,5,4,4,In Progress,Logistics Support,312,2267,240,True
+TKT-0498,2026-01-02 15:53:00,Standard,Web,Delivery,Late Delivery,Package was marked delivered but cannot be found.,4,3,2,Resolved,Logistics Support,346,1785,1440,True
+TKT-0499,2026-02-28 12:51:00,Standard,Email,Product Issue,Wrong Product Information,Product information appears incorrect.,4,3,2,Resolved,Product Support,227,2229,1440,True
+TKT-0500,2026-04-13 13:27:00,Standard,Web,Refund,Refund Delayed,Refund is delayed.,1,2,4,Resolved,Payments Support,241,2114,1440,True
